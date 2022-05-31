@@ -68,4 +68,5 @@ The p-value for the test indicates that the chance of the two sets of   data bei
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here. If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason. Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
-We reject the null hypothesis that says there is no difference. The data seems to indicate that there is a difference between the line and skill players. 
+  
+The data shows that there is a clear difference between the average pushups of of the line and the skill players.  
